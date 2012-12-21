@@ -3,4 +3,6 @@ Write a little side project idea generator as procrastination.
 To run:
 ruby mixer.rb
 
-Re-run for a new idea.
+Re-run for a new idea
+
+Introduce a path where the noun is left out?
